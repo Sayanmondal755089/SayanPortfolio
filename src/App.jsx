@@ -13,7 +13,7 @@ import NotFound from './pages/NotFound.jsx'
 import SkillNetwork from './pages/Skills'
 import ThemeToggle from './pages/themeToggle'
 import SemesterTimeline from './pages/SemesterTimeline'
-import VisitorCounter from "./pages/VisitorCounter";
+import VisitorCounter from "./components/VisitorCounter";
 
 export default function App() {
   return (
