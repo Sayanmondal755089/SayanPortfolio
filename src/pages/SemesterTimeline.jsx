@@ -3,8 +3,7 @@ import "./SemesterTimeline.css";
 
 const SemesterTimeline = () => {
   const semesters = [
-    "1st Semester 
-       (Done)✅",
+    "1st Semester (Done)✅",
     "2nd Semester (Ongoing)",
     "3rd Semester",
     "4th Semester",
