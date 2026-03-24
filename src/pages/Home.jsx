@@ -81,16 +81,7 @@ export default function Home() {
           </motion.div>
         </div>
 
-        <div className="quick-links">
-          <h2>Connect with me</h2>
-          <div className="quick-links-list">
-            {quickLinks.map((item, i) => (
-              <a key={i} href={item.link} target="_blank">
-                <img src={item.img} alt={item.title} />
-              </a>
-            ))}
-          </div>
-        </div>
+      
 
       </section>
 
@@ -132,5 +123,15 @@ export default function Home() {
       </section>
 
     </div>
+      <div className="quick-links">
+          <h2>Connect with me</h2>
+          <div className="quick-links-list">
+            {quickLinks.map((item, i) => (
+              <a key={i} href={item.link} target="_blank">
+                <img src={item.img} alt={item.title} />
+              </a>
+            ))}
+          </div>
+        </div>
   )
 }
