@@ -33,7 +33,7 @@ const PROJECTS = [
   ss: '/portfolio.jpg',
   tech: ['React', 'Framer Motion', 'Tailwind CSS'],
   live: '#',
-  code: 'https://github.com/Sayanmondal755089/SayanPortfolio'
+  code: 'https://sayandev.xyz/'
   },
   {
     title: '💬 Code Chat – Claude AI Chatbot',
