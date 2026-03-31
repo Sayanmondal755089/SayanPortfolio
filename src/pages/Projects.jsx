@@ -9,7 +9,7 @@ const PROJECTS = [
     ss: '/axiom.png',
     tech: ['GSAP + ScrollTrigger (CDN)', 'Canvas API', 'CSS Custom Properties', '	Google Fonts'],
     live: 'https://axiom54.netlify.app/',
-    code: 'https://github.com/Sayanmondal755089/axiom'
+    code: 'https://github.com/Sayandevxyz/axiom'
   },
   {
   title: 'CRISISSENSE AI',
@@ -17,7 +17,7 @@ const PROJECTS = [
   ss: '/crisissense.jpg',
   tech: ['React', 'Tailwind CSS + custom CSS animations', 'Custom SVG', 'Anthropic Claude API '],
   live: 'https://crisissense-ai.vercel.app/',
-  code: 'https://github.com/Sayanmondal755089/CRISISSENSE-AI'
+  code: 'https://github.com/Sayandevxyz/CRISISSENSE-AI'
   },
   {
     title: 'EcoSort AI',
@@ -25,7 +25,7 @@ const PROJECTS = [
     ss: '/ecosort.png',
     tech: ['Mediapipe', 'TensorFlow', 'React', 'Flask'],
     live: 'https://rb.gy/kxkpty',
-    code: 'https://github.com/Sayanmondal755089/ecosortai'
+    code: 'https://github.com/Sayandevxyz/ecosortai'
   },
   {
   title: '💼 Portfolio Website',
@@ -41,7 +41,7 @@ const PROJECTS = [
     ss: '/codechat.png',
     tech: ['Claude API', 'LangChain', 'Python', 'Streamlit'],
     live: '',
-    code: 'https://github.com/Sayanmondal755089/codechat-Chatbot'
+    code: 'https://github.com/Sayandevxyz/codechat-Chatbot'
   },
  
  {
@@ -50,7 +50,7 @@ const PROJECTS = [
   ss: "/opensource.jpg",
  tech: ["Python", "Machine Learning", "Scikit-learn", "XGBoost", "Pandas", "NumPy", "Data Preprocessing"],
   live: "#",
-  code: "https://github.com/Sayanmondal755089/badgemagic-app"
+  code: "https://github.com/Sayandevxyz/badgemagic-app"
   }
 ]
 
